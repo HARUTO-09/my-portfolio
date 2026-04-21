@@ -13,14 +13,14 @@ const links = [
   {
     icon: Linkedin,
     label: "LinkedIn",
-    value: "/in/sai-varun-mukunda",
-    href: "https://www.linkedin.com/in/sai-varun-mukunda",
+    value: "/in/sai-varun-mukundu/",
+    href: "https://www.linkedin.com/in/sai-varun-mukundu/",
   },
   {
     icon: Github,
     label: "GitHub",
-    value: "@saivarunmukunda",
-    href: "https://github.com/saivarunmukunda",
+    value: "@HARUTO-09",
+    href: "https://github.com/HARUTO-09",
   },
 ];
 
